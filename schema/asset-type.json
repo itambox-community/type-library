@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/itambox-community/type-library/schema/asset-type.json",
+  "title": "Community catalogue asset type",
+  "description": "Entry point for editors and CI. The real definition is the generated schema, copied from a webapp release and never edited by hand.",
+  "$ref": "generated_schema.json",
+  "required": ["manufacturer", "model", "category"]
+}

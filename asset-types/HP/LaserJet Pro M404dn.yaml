@@ -1,0 +1,9 @@
+manufacturer: HP
+model: LaserJet Pro M404dn
+category: printers
+specs:
+  print_technology: laser
+  print_speed: 38 pages_per_minute
+  duplex_supported: true
+  color_supported: false
+  ethernet_port_count: 1

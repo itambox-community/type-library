@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Catalyst 9200L-24P-4G
+category: switches
+specs:
+  form_factor: rack
+  rack_units: 1 U
+  ethernet_port_count: 24
+  poe_port_count: 24
+  poe_budget: 370 W

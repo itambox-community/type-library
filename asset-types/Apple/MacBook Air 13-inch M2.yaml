@@ -1,0 +1,11 @@
+manufacturer: Apple
+model: MacBook Air 13-inch M2
+category: laptops
+specs:
+  form_factor: notebook
+  operating_system_family: macos
+  display_size: 13.6 in
+  display_resolution: 2560x1664
+  memory_type: lpddr5
+  battery_capacity: 52.6 Wh
+  weight: 1.24 kg

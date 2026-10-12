@@ -1,0 +1,6 @@
+manufacturer: Fortinet
+model: FortiGate 60F
+category: firewalls
+specs:
+  form_factor: desktop
+  ethernet_port_count: 10

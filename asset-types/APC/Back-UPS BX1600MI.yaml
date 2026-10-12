@@ -1,0 +1,6 @@
+manufacturer: APC
+model: Back-UPS BX1600MI
+category: ups
+specs:
+  apparent_power: 1600 VA
+  power_output: 900 W

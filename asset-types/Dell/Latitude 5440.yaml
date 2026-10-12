@@ -1,0 +1,6 @@
+manufacturer: Dell
+model: Latitude 5440
+category: laptops
+specs:
+  form_factor: notebook
+  display_size: 14 in

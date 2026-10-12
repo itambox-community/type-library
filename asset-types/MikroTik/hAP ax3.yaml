@@ -1,0 +1,8 @@
+manufacturer: MikroTik
+model: hAP ax3
+category: routers
+specs:
+  form_factor: desktop
+  ethernet_port_count: 5
+  wifi_standards:
+  - 802_11ax

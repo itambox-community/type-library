@@ -1,0 +1,10 @@
+manufacturer: Brother
+model: HL-L2350DW
+category: printers
+specs:
+  print_technology: laser
+  print_speed: 30 pages_per_minute
+  duplex_supported: true
+  color_supported: false
+  wifi_standards:
+  - 802_11n

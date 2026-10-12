@@ -1,0 +1,7 @@
+manufacturer: Dell
+model: PowerEdge R650
+category: servers
+specs:
+  form_factor: rack
+  rack_units: 1 U
+  memory_type: ddr4

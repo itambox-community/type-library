@@ -1,0 +1,9 @@
+manufacturer: Ubiquiti
+model: UniFi Switch Lite 8 PoE
+category: switches
+specs:
+  form_factor: desktop
+  ethernet_port_count: 8
+  poe_port_count: 4
+  poe_budget: 52 W
+  switching_capacity: 16 Gbit/s

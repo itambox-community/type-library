@@ -1,0 +1,8 @@
+manufacturer: Ubiquiti
+model: UniFi U6 Pro
+category: access-points
+specs:
+  wifi_standards:
+  - 802_11ax
+  ethernet_port_count: 1
+  power_consumption_max: 13 W

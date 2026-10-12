@@ -1,0 +1,16 @@
+manufacturer: Fairphone
+model: Fairphone 5
+category: mobile-phones
+specs:
+  form_factor: phone
+  operating_system_family: android
+  display_size: 6.46 in
+  display_resolution: 2770x1224
+  memory_capacity: 8 GiB
+  storage_capacity: 256 GiB
+  camera_resolution: 50 MP
+  battery_capacity: 16.2 Wh
+  ip_rating: IP55
+  wifi_standards:
+  - 802_11ax
+  weight: 0.212 kg

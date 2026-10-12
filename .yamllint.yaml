@@ -1,0 +1,12 @@
+extends: default
+ignore: |
+  .github/
+rules:
+  indentation:
+    spaces: 2
+    indent-sequences: consistent
+  line-length:
+    max: 200
+  document-start: disable
+  truthy:
+    check-keys: false
